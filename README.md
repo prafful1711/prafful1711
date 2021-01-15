@@ -12,7 +12,8 @@ I am <a href="https://github.com/prafful1711"> Prafful Sinha</a>. I am currently
 
 •  I am always working on cool stuff💻 </br>
 •  I am currently learning React Native📱 and DSA</br>
-•  I am currently working on MERN Stack</br>
+•  I am currently learning on MERN Stack</br>
+•  I am currently working on Laravel | Codeigniter </br>
 •  Fun fact: I can sleep for 12 hours straight</br>
 •  I'm always open to have a chit-chat with you :) </br>
 
