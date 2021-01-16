@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am <a href="https://github.com/prafful1711"> Prafful Sinha</a>. I am currently working on <b>MERN</b> Stack along with <b>GraphQL</b>. I am also <b>Laravel | Codeigniter</b> Developer 💻
+I am <a href="https://github.com/prafful1711"> Prafful Sinha</a>, a passionate self-taught Full Stack Web Developer 🚀 from India. I am currently working on <b>MERN</b> Stack along with <b>GraphQL</b>. I am also <b>Laravel | Codeigniter</b> Developer 💻
 
 
 </br>
